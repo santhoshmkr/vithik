@@ -50,7 +50,7 @@ function App() {
       
     // </>
     <div className="">
-      <h1 className='text-red-500'>hello</h1>
+      <h1 className='text-red-500'>virthik</h1>
     </div>
   )
 }
